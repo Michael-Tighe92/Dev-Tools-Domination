@@ -1,2 +1,3 @@
 # Dev-Tools-Domination
-Created using Dev Tools Domination (JavaScript30)
+
+- Practicing commands using the console log
